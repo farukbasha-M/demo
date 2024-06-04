@@ -1,4 +1,4 @@
 # demo
 This is my first Repository
 <br>
-author - Faruk Basha
+author - Faruk Basha (Mulla)
